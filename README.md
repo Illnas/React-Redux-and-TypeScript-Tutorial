@@ -9,3 +9,5 @@ but, I will do few more tutorials on Typescript and few on Angular so I can star
 
 Anyway, need to create Markdown Readme Template, so
 onwards to another project!
+
+Link: https://www.youtube.com/watch?v=tcCS4mGAq7Q&list=PL6-RV8_Xfo6Hy4qvSWNWPVZBi1yTxjjEE&index=20
